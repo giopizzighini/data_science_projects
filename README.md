@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/giopizzighini/data_science_projects/blob/main/banner-data-science.jpg" height="100" width="1000"/ >
+  <img src="https://github.com/giopizzighini/data_science_projects/blob/main/banner-data-science.jpg" height="200" width="1000"/ >
 </p>
 
 # Giovanni Pizzighini
