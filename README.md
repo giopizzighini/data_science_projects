@@ -3,13 +3,14 @@
 </p>
 
 # Giovanni Pizzighini
-###*Data Scientist*###
+### *Data Scientist*
 
 My main goal is to become a Data Scientist and this is just a start!
 
-**Background in:** Python, Machine Learning, AI, SQL, Database
+*Background in:* Python, SQL, Machine Learning, AI, SQL, Database
 
-**Links:**
+*Links:*
+
  [LinkedIn](https://www.linkedin.com/in/giopizzighinianalyst)
 
 ## Projetos:
