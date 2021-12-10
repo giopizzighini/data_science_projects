@@ -10,7 +10,7 @@ My main goal is to become a Data Scientist and this is just a start!
 **Background in:** Python, Machine Learning, AI, SQL, Database
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/giopizzighinianalyst)
+ [LinkedIn](https://www.linkedin.com/in/giopizzighinianalyst)
 
 ## Projetos:
 
