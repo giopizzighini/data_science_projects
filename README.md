@@ -17,3 +17,4 @@ My main goal is to become a Data Scientist and this is just a start!
 
 * **Game 1 (Ping Pong) - DSA**
 * **Calculadora em Python**
+* **Jogo da FORCA**
